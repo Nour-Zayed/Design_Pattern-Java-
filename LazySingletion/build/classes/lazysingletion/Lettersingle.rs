@@ -1,0 +1,1 @@
+singletion.pattern.Lettersingle
